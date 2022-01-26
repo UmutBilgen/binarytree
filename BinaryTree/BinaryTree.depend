@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1624045454 source:c:\users\umutr\onedrive\desktop\ders notlarý\baglantililisteproje\binarytree\main.cpp
+	<iostream>
+	"islemler.h"
+	<ctime>
+
+1624038939 c:\users\umutr\onedrive\desktop\ders notlarý\baglantililisteproje\binarytree\islemler.h
+	"struct.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<iostream>
+	<queue>
+	<stack>
+	<ctime>
+
+1623968712 c:\users\umutr\onedrive\desktop\ders notlarý\baglantililisteproje\binarytree\struct.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<fstream>
+
